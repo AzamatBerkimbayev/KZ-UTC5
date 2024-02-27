@@ -1,5 +1,5 @@
 # KZ UTC+5
-(UTC+05:00) Astana Central Asia Standard Time - Patch
+(UTC+05:00) Astana Central Asia Standard Time - Unofficial Patch for Windows XP,7,8,10,11,2003,2008,2012,2016,2019,2025.
 
 How to apply:
 1. Run and apply Patch reg file.
