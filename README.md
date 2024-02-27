@@ -1,2 +1,2 @@
-# KZ-UTC5
+# KZ-UTC+5
 (UTC+05:00) Astana Central Asia Standard Time - Patch
