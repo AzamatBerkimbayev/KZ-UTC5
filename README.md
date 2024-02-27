@@ -9,4 +9,4 @@ How to revert:
 1. Run and apply Unpatch reg file.
 2. Run command in CMD: tzutil /s "Central Asia Standard Time"
 
-Additional info will be posted on www.contoso.kz
+Additional info will be posted in my blog on www.contoso.kz
